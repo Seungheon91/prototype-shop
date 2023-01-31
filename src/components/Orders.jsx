@@ -19,9 +19,10 @@ export default function Orders() {
   if (orders.length === 0) {
     return (
       <aside>
-        <div className="empty"></div>
-        <div className="title">you don't have any orders</div>
-        <div className="subtitle">Click on a + to add an order</div>
+        <div className="empty">
+          <div className="title">you don't have any orders</div>
+          <div className="subtitle">Click on a + to add an order</div>
+        </div>
       </aside>
     );
   }
@@ -63,6 +64,6 @@ export default function Orders() {
         <button className="btn btn--secondary" style={{ width: "100%", marginTop: 10 }}>Checkout</button>
       </div>
     </div>
-  </aside >
+  </aside>
 
 }
