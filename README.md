@@ -2,7 +2,7 @@
 React로 간단한 쇼핑몰 페이지 구현
 
 ## 🖥️ DEMO
-[새 탭에서 열기](https://clinquant-florentine-aff362.netlify.app){:target="_blank"}
+<a href="https://clinquant-florentine-aff362.netlify.app" target="_blank">DEMO</a>
 
 ## ⚙️ 개발환경
 - `react 18.2.0`
