@@ -1,5 +1,6 @@
 # prototype-shop
 React로 간단한 쇼핑몰 페이지 구현
+- 패스트 캠퍼스 React 클론코딩
 
 ## 🖥️ DEMO
 <a href="https://clinquant-florentine-aff362.netlify.app" target="_blank">DEMO</a>
